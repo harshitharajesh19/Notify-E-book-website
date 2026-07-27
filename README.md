@@ -45,8 +45,8 @@ A full-stack web application that enables users to upload and download **Books**
 ## Installation & Setup
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/ebook-Website.git
-cd ebook-Website
+git clone https://github.com/yourusername/notify-ebook-website.git
+cd notify-ebook-website
 ```
 
 ### Install Dependencies
