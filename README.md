@@ -1,4 +1,4 @@
-# Notify-E Book Website
+# Notify- E-Book Website
 
 ## Project Overview
 A full-stack web application that enables users to upload and download **Books**, **Handwritten Notes**, **PDFs**, **Novels**, and other educational resources. This platform supports secure user registration and login, providing a personalized experience for each user.
@@ -44,8 +44,8 @@ A full-stack web application that enables users to upload and download **Books**
 ## Installation & Setup
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/notify-ebook-website.git
-cd notify-ebook-website
+git clone https://github.com/harshitharajesh19/Notify-E-book-website.git
+cd Notify-E-book-website
 ```
 
 ### Install Dependencies
